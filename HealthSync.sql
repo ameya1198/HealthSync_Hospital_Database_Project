@@ -1,11 +1,9 @@
 /**
     Health Sync - Health Management Application
-    Updated by Group 6
-
+    
     This SQL script sets up the Health Sync database,
     relationships, and data to support comprehensive hospital management functionalities.
-    Updates include moving the Department ENUM to a new Departments table,
-    handling many-to-many relationships, and adding a BillingHistory table.
+   
 */
 
 -- Drop and Create Database
